@@ -1,1 +1,4 @@
-*.dart linguist-language=Dart *.dart linguist-detectable=true android/* linguist-vendored build/* linguist-vendored
+*.python linguist-detectable=false
+*.js linguist-detectable=false
+*.html linguist-detectable=false
+*.xml linguist-detectable=false
